@@ -5,7 +5,7 @@ class day2{
         System.out.println("num1="+num1+"success");
         System.out.println("num2="+num2+"success");
 
-        byte num3=127;
+       /*  byte num3=127;
         System.out.println(num3);
 
         short sh=32767;
@@ -25,6 +25,9 @@ class day2{
 
         boolean b=true;
         System.out.println(b);
+        char ch='a';
+        System.err.println(ch);*/
+
 
     }
 }
