@@ -8,10 +8,10 @@ class day2{
          byte num3=127;
         System.out.println(num3);
 
-       /*  short sh=32767;
+        short sh=32767;
         System.out.println(sh);
 
-        int nuq=214748364;
+        /*int nuq=214748364;
         System.out.println(nuq);
 
         long ter=8796l;
