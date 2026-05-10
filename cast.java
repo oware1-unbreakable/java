@@ -7,6 +7,10 @@ public class cast {
         byte c=123;
         int d=(int) c;
         System.out.println(d);
+
+        int f =257;
+        byte r=(byte) f;
+        System.out.println(r);
     }
     
 }
